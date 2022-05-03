@@ -10,4 +10,9 @@ Researchers set-out to investigate the types of bacteria found in the belly butt
 - Images:  jumbotron bacteria image downloaded from: https://sc01.alicdn.com/kf/HTB1hdI.IVXXXXaeXpXXq6xXFXXX9/223506401/HTB1hdI.IVXXXXaeXpXXq6xXFXXX9.jpg
 
 ## Results
-An interactive webpage was created that allows users to search by participant ID number from a pull-down menu. A horizontal bar chart, bubble chart, and gauge chart are displayed to show findings for each participant in the investigation.
+An interactive webpage was created that allows users to search by participant ID number from a pull-down menu. A horizontal bar chart, bubble chart, and gauge chart are displayed to show findings for each participant in the investigation (see screenshots of webpage below).
+
+![dashboardfinal1](https://user-images.githubusercontent.com/95387273/166492358-a0cee299-61dd-4d96-b913-6c5cd540f831.png)
+
+![dashboardfinal2](https://user-images.githubusercontent.com/95387273/166492745-31d53c51-486b-4375-afe9-9a076c935a5c.png)
+
